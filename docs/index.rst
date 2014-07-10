@@ -11,6 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   getting-started
+   uploading-videos
+   publishing-videos
 
 
 Indices and tables
