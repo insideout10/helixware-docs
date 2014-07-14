@@ -7,9 +7,16 @@ Uploading Videos
     WordPress.
 
 
+WordPress login
+_______________
+
 Log into the WordPress admin screen, and click on `Media \ Add New` from the left side menu:
 
 .. image:: /images/add-new-media-menu.png
+
+
+Upload
+______
 
 Drag (or select) one or more videos from your computer on the `Drop files here` box:
 
@@ -20,9 +27,17 @@ Drag (or select) one or more videos from your computer on the `Drop files here` 
     The WordPress standard upload limit does not apply to HelixWare uploads. The HelixWare upload limit is specified
     right after WordPress limit and is usually more than one GB.
 
+
+Progress
+________
+
 The upload will start, a bar will show its progress:
 
 .. image:: /images/upload-videos-step-02.png
+
+
+Create post
+___________
 
 When the upload is complete, you can create a new `post` by selecting its type, title and tags. Then click on `Save`:
 
@@ -32,6 +47,10 @@ When the upload is complete, you can create a new `post` by selecting its type, 
 
     HelixWare plugin will create a post with the video player shortcode embedded in its content. HelixWare plugin will
     also create a video thumbnail (by default using the frame at 15") that will be set as *featured image*.
+
+
+Edit post
+_________
 
 When the post is saved, an *edit* link appears. You can click this link to open the *edit post* screen.
 
