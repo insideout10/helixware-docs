@@ -10,7 +10,7 @@ Uploading Videos
 WordPress login
 _______________
 
-Log into the WordPress admin screen, and click on `Media \ Add New` from the left side menu:
+Log into the WordPress admin screen, and click on `Media / Add New` from the left side menu:
 
 .. image:: /images/add-new-media-menu.png
 
